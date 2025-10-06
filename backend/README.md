@@ -113,15 +113,6 @@ pip install -r .\requirements.txt
 python .\gcts.py
 ```
 
-## Próximos pasos sugeridos
-
-- Añadir argumentos de línea de comandos para lat/lon/fechas.
-- Añadir manejo automático de fallbacks para variables que devuelvan errores.
-- Crear tests unitarios rápidos que verifiquen que el CSV/PNG se generan correctamente (smoke tests).
-
-Si quieres, implemento cualquiera de los puntos anteriores y actualizo este README con ejemplos más avanzados.
-
+**Autor:** Hackamoles
 ---
-
-**Autor:** Proyecto local
 **Generado:** 2025-10-04
